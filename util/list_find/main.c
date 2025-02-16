@@ -26,7 +26,7 @@
 // MAIN
 //
 int main (int argc, char *argv[]) {
-  puts("\nTEST LIST_SORT\n");
+  puts("\nTEST LIST_FIND\n");
 
   list_t *list;
   if ((list = list_alloc()) == NULL)
