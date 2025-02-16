@@ -49,7 +49,7 @@ int main (int argc, char *argv[]) {
 void print_list (list_t *list, char const *header) {
   puts(header);
   printf("\nlist:\ttotal:\t%lu\n\tcount:\t%lu\n" \
-      "\to_size:\t%lu\n\titem:\t%p\n\n", list->total, list->count,
+      "\to_size:\t%lu\n\tbuffer:\t%p\n\n", list->total, list->count,
       list->o_size, list->buffer);
 }
 
