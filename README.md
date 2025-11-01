@@ -1,4 +1,9 @@
-﻿---
+LEAVE A STAR
+If you like the KatoKode x86_64 Assembly Language Tutorial by all means leave a STAR to encourage others to visit.
+
+Thanks, and Have Fun!
+
+ ---
 
 Tutorial: x86_64 Assembly Language Programming
 
